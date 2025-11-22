@@ -21,3 +21,5 @@ View your app in AI Studio: https://ai.studio/apps/drive/1GEQNYJZim3E0jEcnRkWNJY
 https://www.loom.com/share/cef7376426ce44698a7919adccaa1bbf
 
 https://www.loom.com/share/6e890f7fb78f4bae8456d83fabe8e448
+
+Update (Nov 21th, 2025) : All bugs are fixed with a couple of more prompts, and the web UI is now working properly with all functions working correctly.
