@@ -1,0 +1,7 @@
+{
+  "name": "NeurPaper AI",
+  "description": "An advanced AI research assistant capable of ingesting arXiv papers, simulating RAG/LoRA training pipelines, and providing multimodal voice and text interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
